@@ -48,7 +48,7 @@ const ShowcaseSection = () => {
             <div className='first-project-wrapper' ref={project1Ref}>
                 <a href='https://www.handuphousing.org/' target='_blank' rel='noopener noreferrer'>
                     <div className='image-wrapper'>
-                        <img src='/images/housingphoto11.png' alt='House' />
+                        <img src='/images/huhcoverlogo.png' alt='House' />
                     </div>
                 </a>
                 <div className='text-content'>
@@ -66,7 +66,7 @@ const ShowcaseSection = () => {
                         rel='noopener noreferrer'
                     >
                         <div className='image-wrapper bg-[#ffefdb]'>
-                            <img src='/images/project2.png' alt='Real Estate Application' />
+                            <img src='/images/realcard.png' alt='Real Estate Application' />
                         </div>
                     </a>
                     <h2>Real Estate Application</h2>
@@ -79,7 +79,7 @@ const ShowcaseSection = () => {
                         rel='noopener noreferrer'
                     >
                         <div className='image-wrapper bg-[#ffefdb]'>
-                            <img src='/images/project3.png' alt='Communication Platform' />
+                            <img src='/images/messagecard1.png' alt='Communication Platform' />
                         </div>
                     </a>
                     <h2>Communication Platform</h2>

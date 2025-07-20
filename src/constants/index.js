@@ -57,21 +57,11 @@ const logoIconsList = [
 ];
 
 const abilities = [
-  {
-    imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
-  },
-  {
-    imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
-  },
-  {
-    imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
-  },
+  // {
+  //   imgPath: "/images/seo.png",
+  //   title: "Quality Focus",
+  //   desc: "Delivering high-quality results while maintaining attention to every detail.",
+  // },
 ];
 
 const techStackImgs = [
@@ -155,37 +145,31 @@ const expLogos = [
 ];
 
 const testimonials = [
-  {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
-    review:
-      "I can’t say enough good things about Daniel. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-    imgPath: "/images/client1.png",
-  },
-  {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
-    review:
-      "Working with Daniel was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-    imgPath: "/images/client3.png",
-  },
+  // {
+  //   name: "Wade Warren",
+  //   mentions: "@wadewarren",
+  //   review:
+  //     "Working with Daniel was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
+  //   imgPath: "/images/client3.png",
+  // },
 ];
 
 const socialImgs = [
-  {
-    name: "insta",
-    imgPath: "/images/insta.png",
-  },
-  {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    imgPath: "/images/x.png",
-  },
+  // {
+  //   name: "insta",
+  //   imgPath: "/images/insta.png",
+  // },
+  // {
+  //   name: "fb",
+  //   imgPath: "/images/fb.png",
+  // },
+  // {
+  //   name: "x",
+  //   imgPath: "/images/x.png",
+  // },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/daniel-vincent-49b6861aa/",
     imgPath: "/images/linkedin.png",
   },
 ];
