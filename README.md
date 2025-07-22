@@ -1,12 +1,17 @@
-# React + Vite
+# My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website showcasing my skills, projects, and contact information. Built with React, GSAP, Three.js, and Tailwind.
 
-Currently, two official plugins are available:
+[View Live](https://danielvx1.github.io/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Responsive design for mobile and desktop
+- Project gallery with links
+- Tech stack icons section
+- Smooth scroll and interactive UI
+- Contact form (EmailJS)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author
+
+[Daniel Vincent](https://www.linkedin.com/in/daniel-vincent-49b6861aa/)
